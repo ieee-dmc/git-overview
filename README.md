@@ -1,11 +1,9 @@
-# git-tutorial
+# A Practical Overview of GIT
 
-A practical overview of GIT
+## Choose a License
 
-## License
+[Choose a license](https://choosealicense.com/)
 
-Add a license - [Choose a license](https://choosealicense.com/)
-
-## Practices
+## Common Practices
 
 See [Practices](https://github.com/redhat-na-ssa/demo-ai-gitops-catalog/blob/main/docs/practices/index.md)
