@@ -14,9 +14,10 @@ Some enterprises create managed user accounts for their users. You can't sign up
 
 > [!NOTE]
 > If you're having problems verifying your email address, there are some troubleshooting steps you can take. For more information, see 
-> <a href="https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences">Verifying your email > address</a>
+> <a href="https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences">Verifying your email address</a>
 <p>
-
+<p>
+  
 ## Create your first repository
 
 ## Fork over the Anomaly Detection repo 
