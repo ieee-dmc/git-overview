@@ -8,7 +8,8 @@ Overview:  Go to github.com, click "Sign up", and follow the prompts to enter yo
 - [ ] Alternatively, click on **Continue with Google** to sign up using social login
 - [ ] Follow the prompts to create your personal account.
 
-During sign up, you'll be asked to verify your email address. Without a verified email address, you won't be able to complete some basic GitHub tasks, such as creating a repository.
+> [!IMPORTANT]
+> During sign up, you'll be asked to verify your email address. Without a verified email address, you won't be able to complete some basic GitHub tasks, such as creating a repository.
 
 Some enterprises create managed user accounts for their users. You can't sign up for a personal account with an email address that's already verified for a managed user account.
 
