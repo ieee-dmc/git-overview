@@ -1,4 +1,10 @@
-# A Practical Overview of GIT
+# DMC Tutorial - A Practical Overview of GIT
+
+## Create a Github account
+
+## Create your first repository
+
+## Fork over the Anomaly Detection repo 
 
 ## Choose a License
 
