@@ -1,6 +1,6 @@
 # DMC Tutorial - A Practical Overview of GIT
 
-## Create a Github account
+## Create a GitHub account
 Overview:  Go to github.com, click "Sign up", and follow the prompts to enter your email address, create a password and username, and solve a verification puzzle.  You will then need to verify your email address by entering a launch code sent to your inbox to complete the account creation.
 
 - [ ] Navigate to https://github.com/.
@@ -17,10 +17,16 @@ Some enterprises create managed user accounts for their users. You can't sign up
 > <a href="https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences">Verifying your email address</a>
 <p>
 <p>
-  
-## Create your first repository
 
-## Fork over the Anomaly Detection repo 
+Next, you will learn how to create a project and make a pull request on GitHub.
+  
+## Create a repository
+
+## Make and commit changes
+
+## Open a pull request
+
+## Merge your pull request
 
 ## Choose a License
 
