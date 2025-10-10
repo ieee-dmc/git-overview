@@ -4,8 +4,8 @@
 Overview:  Go to github.com, click "Sign up", and follow the prompts to enter your email address, create a password and username, and solve a verification puzzle.  You will then need to verify your email address by entering a launch code sent to your inbox to complete the account creation.
 
 - [ ] Navigate to https://github.com/.
-- [ ] Click Sign up.
-- [ ] Alternatively, click on Continue with Google to sign up using social login
+- [ ] Click **Sign up**.
+- [ ] Alternatively, click on **Continue with Google** to sign up using social login
 - [ ] Follow the prompts to create your personal account.
 
 During sign up, you'll be asked to verify your email address. Without a verified email address, you won't be able to complete some basic GitHub tasks, such as creating a repository.
