@@ -1,7 +1,13 @@
 # DMC Tutorial - A Practical Overview of GIT
 
 ## Create a GitHub account
-Overview:  Go to github.com, click "Sign up", and follow the prompts to enter your email address, create a password and username, and solve a verification puzzle.  You will then need to verify your email address by entering a launch code sent to your inbox to complete the account creation.
+To get started with GitHub, you'll need to create a free personal account and verify your email address.
+
+You can also authenticate with Google or Apple - which are the supported social login providers when you create your account on GitHub. For iOS users, even if you have enabled the setting "Hide My Email addresses" for your Apple account, using social login will result in creating a new GitHub account.
+
+Every person who uses GitHub signs in to a user account. Your user account is your identity on GitHub and has a username and profile. For example, see <a href="https://github.com/octocat">@octocat's profile</a>.
+
+Later, you can explore the different types of accounts that GitHub offers, and decide if you need a billing plan. For more information, see <a href="https://docs.github.com/en/get-started/learning-about-github/types-of-github-accounts">Types of GitHub accounts</a> and <a href="https://docs.github.com/en/get-started/learning-about-github/githubs-plans">GitHub’s plans.</a>
 
 - [ ] Navigate to https://github.com/.
 - [ ] Click **Sign up**.
